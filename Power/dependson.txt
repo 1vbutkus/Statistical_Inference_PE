@@ -1,0 +1,4 @@
+reshape2
+
+ggplot2
+base64enc
