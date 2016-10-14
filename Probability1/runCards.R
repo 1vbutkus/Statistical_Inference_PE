@@ -2,7 +2,7 @@
 # here will show up in the user's workspace when he or she begins
 # the lesson.
 file.copy(from=file.path(find.package("swirl"),
-                         "Courses/Statistical_Inference",
+                         "Courses/Statistical_Inference_PE",
                          "Probability1/cards.R"), 
           to="cards.R")
 # file.edit("cards.R")
