@@ -11,7 +11,7 @@ samsz <- 10
 #get correct paths for plotting
 pathtofile <- function(fileName){
   mypath <- file.path(find.package("swirl"),
-                      "Courses/Statistical_Inference/Variance",
+                      "Courses/Statistical_Inference_PE/Variance",
                       fileName)
 }
 fxfer <- function(fileName){
